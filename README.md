@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faroukbmiled@gmail.com)](mailto:faroukbmiled@gmail.com)
 
 ## Hi 👋, 
-I'm Farouk, I'm a Software engineer student at Holberton School 👨‍💻
+I'm Farouk, I'm a Software engineering student at Holberton School 👨‍💻
 
 ---
 ⭐️ From [Farouk B'Miled](https://github.com/faroukbmiled)
