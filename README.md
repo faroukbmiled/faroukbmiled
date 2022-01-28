@@ -5,6 +5,7 @@
 ## Hi 👋, 
 I'm Farouk, I'm a Software engineering student at Holberton School 👨‍💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroukbmiled)](https://github.com/faroukbmiled/github-readme-stats)
 ---
 ⭐️ From [Farouk B'Miled](https://github.com/faroukbmiled)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroukbmiled)](https://github.com/faroukbmiled/github-readme-stats)
