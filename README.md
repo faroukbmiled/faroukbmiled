@@ -12,9 +12,3 @@ I'm Farouk, I'm a Software engineering student at Holberton School 👨‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbmiled&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbmiled&theme=dark&layout=compact" />
 </a>
-
-## 🧐 About
-
-- 👨‍💻 My website: 
-- 📫 How to reach me: 
-<h3> 🛠 &nbsp;Tech Stack</h3>
