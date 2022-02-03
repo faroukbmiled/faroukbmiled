@@ -8,4 +8,7 @@ I'm Farouk, I'm a Software engineering student at Holberton School 👨‍💻
 ---
 ⭐️ From [Farouk B'Miled](https://github.com/faroukbmiled)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faroukbmiled)](https://github.com/faroukbmiled/github-readme-stats)
+<a href="https://github.com/faroukbmiled%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbmiled&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbmiled&theme=dark&layout=compact" />
+</a>
