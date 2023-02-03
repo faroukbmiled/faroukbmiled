@@ -4,13 +4,28 @@
   </a>
 </h1>
 
-![Ryuk](https://github.com/faroukbmiled/faroukbmiled/blob/main/imgs/ryuk.gif)<br/>
- [![Twitter Badge](https://img.shields.io/badge/-@Farouk_B_Miled-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Farouk_B_Miled)](https://twitter.com/Farouk_B_Miled) [![Linkedin Badge](https://img.shields.io/badge/-Farouk_B_Miled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/farouk-ben-miled-43553022b/)](https://www.linkedin.com/in/farouk-ben-miled-43553022b/) [![Medium Badge](https://img.shields.io/badge/-@faroukbmiled-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@faroukbmiled)](https://medium.com/@faroukbmiled)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faroukbmiled@gmail.com)](mailto:faroukbmiled@gmail.com)
- <a class="badge" href="https://replit.com/@DeathN0te?username=DeathN0te&tab=repls" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/864300985740427264/1045315107242127461/logotype.png" alt="replit" width="75"/></a>
 
-```
+<p align="center">
+  <img src="https://github.com/faroukbmiled/faroukbmiled/blob/main/img/ryuk.gif" width="850" height="300"><br/>
+  <a href="https://twitter.com/Farouk_B_Miled">
+    <img src="https://img.shields.io/badge/-@Farouk_B_Miled-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/farouk-ben-miled-43553022b/">
+    <img src="https://img.shields.io/badge/-Farouk_B_Miled-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+  <a href="https://medium.com/@faroukbmiled">
+    <img src="https://img.shields.io/badge/-@faroukbmiled-03a57a?style=flat-square&labelColor=000000&logo=Medium" alt="Medium Badge">
+  </a>
+  <a href="mailto:faroukbmiled@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a class="badge" href="https://replit.com/@DeathN0te?username=DeathN0te&tab=repls" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/864300985740427264/1045315107242127461/logotype.png" alt="replit" width="75"/>
+  </a>
+</p>
+
+
+```python
 class Ryuk:
 
     def __init__(self):
@@ -35,16 +50,16 @@ if __name__ == '__main__':
 ```
 
 <p href="https://github.com/faroukbmiled">
-<p float="left">
+<p align="center" float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbmiled&show_icons=true&theme=tokyonight" width="420" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbmiled&theme=tokyonight&layout=compact" width="420" />
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things..
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
