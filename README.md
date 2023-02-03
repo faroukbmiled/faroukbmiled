@@ -176,8 +176,16 @@ if __name__ == '__main__':
  
 </table>
 <hr>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=faroukbmiled&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faroukbmiled&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 <hr>
-⭐️ From <a href="https://github.com/faroukbmiled"> Farouk B'Miled </a>
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faroukbmiled&label=Profile%20views&color=0e75b6&style=flat" alt="faroukbmiled" /> </p>
+<div style="display: flex;">
+  <p style="flex: 1; align-items: center;">
+    ⭐️ From <a href="https://github.com/faroukbmiled"> Farouk B'Miled </a>
+  </p>
+  <p style="flex: 1; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=faroukbmiled&label=Profile%20views&color=0e75b6&style=flat" alt="faroukbmiled" />
+  </p>
+</div>
+
