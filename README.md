@@ -24,7 +24,6 @@
   </a>
 </p>
 
-
 ```python
 class Ryuk:
 
@@ -48,7 +47,7 @@ class Ryuk:
 if __name__ == '__main__':
     me = Ryuk()
 ```
-
+<h2 align="left"></h2>
 <p href="https://github.com/faroukbmiled">
 <p align="center" float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbmiled&show_icons=true&theme=tokyonight" width="420" />
@@ -175,7 +174,7 @@ if __name__ == '__main__':
  
  
 </table>
-<hr>
+<h2 align="left"></h2>
 <p align="left">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faroukbmiled&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
