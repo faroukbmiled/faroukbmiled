@@ -176,7 +176,7 @@ if __name__ == '__main__':
 </table>
 <h2 align="left"></h2>
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faroukbmiled&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faroukbmiled&hide_border=true&theme=react-dark&bg_color=20232a" width="100%"/>
 </p>
 <hr>
 <div style="display: flex;">
