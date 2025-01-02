@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a class="badge" href="https://replit.com/@DeathN0te?username=DeathN0te&tab=repls" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/864300985740427264/1045315107242127461/logotype.png" alt="replit" width="75"/>
+    <img src="https://replit.com/badge?caption=Ryuk" alt="replit" width="60"/>
   </a>
 </p>
 
@@ -160,9 +160,9 @@ if __name__ == '__main__':
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://nextjs.org/favicon.ico" width="48" height="48" alt="NextJS" />
       </a>
-      <br>Prometheus
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
