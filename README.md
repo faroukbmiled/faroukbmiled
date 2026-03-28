@@ -31,14 +31,15 @@ class Ryuk:
         self.username = 'Ryuk'
         self.name = 'Farouk BMiled'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'JQuery', 'Angular'],
-            'backend': ['Python', 'Flask', 'Django', 'NodeJS'],
-            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'ReplIT', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'SQLAlchemy'],
-            'misc': ['Firebase', 'GNU/Linux']
+            'frontend': ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'ReactJS', 'Next.js', 'TailwindCSS', 'SwiftUI'],
+            'backend': ['Python', 'FastAPI', 'Django', 'NodeJS', 'Express', 'Kotlin'],
+            'mobile': ['Swift', 'Kotlin', 'Flutter', 'React Native'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'Redis'],
+            'devops': ['Docker', 'Kubernetes', 'Nginx', 'AWS', 'GitHub Actions', 'Terraform', 'Heroku'],
+            'tools': ['Git', 'GitHub', 'PyCharm', 'SQLAlchemy', 'Postman'],
+            'misc': ['Firebase', 'Linux', 'REST APIs', 'GraphQL', 'CI/CD']
         }
-        self.gaming = ['Valorant', 'PUBG', 'MW22', 'MK11', 'BFV', 'RL', 'FH5']
+        self.gaming = ['ARC Raiders' ,'Valorant', 'CS', 'COD', 'BF']
 
     def __str__(self):
         return self.name
@@ -47,11 +48,12 @@ class Ryuk:
 if __name__ == '__main__':
     me = Ryuk()
 ```
+
 <h2 align="left"></h2>
 <p href="https://github.com/faroukbmiled">
 <p align="center" float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faroukbmiled&show_icons=true&theme=tokyonight" width="420" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbmiled&theme=tokyonight&layout=compact" width="420" />
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=faroukbmiled&cc=0d1117&tc=c9d1d9&ic=8b949e&bc=0d1117" width="420" />
+  <img height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=faroukbmiled&theme=dark" width="420" />
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
